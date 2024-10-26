@@ -1,0 +1,4 @@
+Test file is created to poerform pythoncoding task
+Delhi the capital city of India
+paris is situated in France
+Hyderabad is the capital city of telengana
